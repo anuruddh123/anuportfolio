@@ -390,7 +390,7 @@ const ContactRoom = ({ showRoom, onReady, isExiting, isWarmup }) => {
                 rotation={[0, -0.2, 0]}
                 texturePath="/textures/contact/beczka.webp"
                 label="RESUME"
-                onClick={() => window.open('https://resume-craftss.netlify.app/', '_blank')}
+                onClick={() => window.open('Anuruddh_Tiwari_FlowCV_Resume_2026-08-30.pdf', '_blank')}
                 paintOnBeforeCompile={onBeforeCompile}
                 paintUniforms={uniformsData}
             />
